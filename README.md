@@ -6,6 +6,6 @@ Espero les sea de utilidad estos notebooks para aquellos que esten iniciando su 
 
 --------
 
-Notes of the Mathematics Course for Data Science: Descriptive Statistics by Francisco Camacho, which you can find it in Platzi. Additionally, the notebooks were complemented with contributions from classmates and excerpts from the book _Practical Statistics for Data Scientist_ by Peter and Anrew Bruce.
+Notes in spanish of the Mathematics Course for Data Science: Descriptive Statistics by Francisco Camacho, which you can find it in Platzi. Additionally, the notebooks were complemented with contributions from classmates and excerpts from the book _Practical Statistics for Data Scientist_ by Peter and Anrew Bruce.
 
 I hope these notebooks will be useful for those who are starting their career in Data Science. Good luck!
