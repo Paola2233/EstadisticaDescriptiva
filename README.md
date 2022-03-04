@@ -1,0 +1,2 @@
+# deepnote
+Platzi course notes
